@@ -12,7 +12,7 @@ public class Print_1_To_N_Number {
 		
 		int num = sc.nextInt();
 		
-		for(int i=0;i<=num;i++)
+		for(int i=1;i<=num;i++)
 		{
 			System.out.println(i);
 		}

@@ -19,7 +19,7 @@ public class GenerateRandomNumber {
 		
 		for(int count = 1; count<=5;count++)
 		{
-			System.out.println("The random number between given" + num +" number " + d.nextInt(num));
+			System.out.println("The random number between given " + num +" number " + d.nextInt(num));
 		}
 
 	}
