@@ -1,7 +1,7 @@
 package com.qa.logical.learning;
  import java.util.Scanner;
  public class AnyNumberTable {
-
+//this is commetented by Ganesh 
 	public static void main(String[] args) {
  		Scanner sc = new Scanner(System.in);
  		System.out.println("Enter any number!!!");
