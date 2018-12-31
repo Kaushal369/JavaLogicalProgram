@@ -20,4 +20,3 @@ package com.qa.logical.learning;
 		}
 	}
  }
-//this is logical program created by kaushal
