@@ -8,7 +8,7 @@ public class OneToN_Number_Perfect_number {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the number to findout perfect number !!!");
 		int number = sc.nextInt();
-		for (int i = 2; i < number; i++) {
+		for (int i = 2; i <= number; i++) {
 			if (isPerfectNumber(i)) {
 				System.out.println("The perfect number between " + i);
 			}
